@@ -1,4 +1,4 @@
-# Olá a todos! Este é o resumo do meu perfil aqui no Github!😉
+# Hey! This is my profile on GitHub!😉
  <div>
   <a href="https://github.com/Samartinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samartinho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
